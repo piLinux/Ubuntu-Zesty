@@ -1,0 +1,23 @@
+Dist: zesty
+Name: Zesty Zapus
+Version: 17.04
+Date: Thu, 13 April 2017 17:04:00 UTC
+Supported: 1
+Description: This is the 17.04 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/zesty/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/zesty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/zesty-updates/main/dist-upgrader-all/current/ReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/zesty-updates/main/dist-upgrader-all/current/zesty.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/zesty-updates/main/dist-upgrader-all/current/zesty.tar.gz.gpg
+
+Dist: artful
+Name: Artful Aardvark
+Version: 17.10
+Date: Thu, 19 October 2017 17:10:00 UTC
+Supported: 0
+Description: This is the 17.10 release
+Release-File: http://archive.ubuntu.com/ubuntu/dists/artful/Release
+ReleaseNotes: http://archive.ubuntu.com/ubuntu/dists/artful/main/dist-upgrader-all/current/DevelReleaseAnnouncement
+ReleaseNotesHtml: http://archive.ubuntu.com/ubuntu/dists/artful/main/dist-upgrader-all/current/DevelReleaseAnnouncement.html
+UpgradeTool: http://archive.ubuntu.com/ubuntu/dists/artful/main/dist-upgrader-all/current/artful.tar.gz
+UpgradeToolSignature: http://archive.ubuntu.com/ubuntu/dists/artful/main/dist-upgrader-all/current/artful.tar.gz.gpg
